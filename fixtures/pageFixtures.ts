@@ -1,7 +1,7 @@
 import { test as fixture } from "@playwright/test";
 import LoginPage from "../page-objects/loginPage";
 import HomePage from "../page-objects/homePage";
-import PIM  from "../page-objects/pim";
+import PIMPage  from "../page-objects/pim";
 import Recruitment from "../page-objects/recruitment";
 import LeavePage from "../page-objects/leave";
 import DashboardPage from "../page-objects/dashboardPage";
